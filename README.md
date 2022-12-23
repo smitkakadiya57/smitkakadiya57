@@ -6,6 +6,6 @@
 
 <h4>👉 Let's Connect <h4>
   <a href="https://www.linkedin.com/in/smit-kakadiya-6740a21bb" >LinkedIn </a> | <a href="https://www.instagram.com/smitkakadiya668/" >Instagram </a> |
-<a href="https://twitter.com/smitkakadiya57" >Twitter </a>
+<a href="https://twitter.com/smitkakadiya57" >Twitter </a>  | <a href="https://smitkakadiya.me" > Website  </a>
   
 
